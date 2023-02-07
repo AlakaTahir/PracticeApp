@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\bin\Debug\netcoreapp3.1\PracticeApp.Model.deps.json
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\bin\Debug\netcoreapp3.1\PracticeApp.Model.dll
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\bin\Debug\netcoreapp3.1\PracticeApp.Model.pdb
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.dll
+C:\Users\HP\Desktop\Practice\PracticeApp\PracticeApp.Model\obj\Debug\netcoreapp3.1\PracticeApp.Model.pdb
